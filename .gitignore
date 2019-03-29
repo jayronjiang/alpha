@@ -1,0 +1,10 @@
+# Keil5环境下STM32F407忽略文件
+Listing/
+OBJ/
+Output/
+USER/*.txt
+USER/*.ini
+USER/DebugConfig
+USER/*.uvguix.Administrator
+USER/*.uvguix.ZZK
+USER/*.uvoptx
